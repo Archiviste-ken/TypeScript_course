@@ -1,5 +1,5 @@
 function greet(name: string): string {
-    return `Hello, ${name}, Welcome to the world of TypeScript!`;
+    return `Hello ${name}, Welcome to the world of TypeScript!`;
 }
 
 const username: string =  "John Doe";
