@@ -1,4 +1,5 @@
-
+// this tsconfig is for the source code in src/ and the output in dist/.
+//the working of this file is to compile the typescript code in src/ and output the javascript code in dist/ with the specified compiler options.
 
 
 
